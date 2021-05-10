@@ -4,6 +4,6 @@ Grupo do projeto integrador do Senac L13 2021
 - Agatha
 - Gustavo Menezes
 - Gustavo Silva
-- Yanara 
 - Ricardo 
 - Vinicius
+- Yanara
